@@ -1,0 +1,56 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/LICENSE.md	/^# Learn.co Educational Content License$/;"	function	line:1
+Person	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/app/models/person.rb	/^class Person < ActiveRecord::Base$/;"	class	line:1
+Address	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/app/models/address.rb	/^class Address < ActiveRecord::Base$/;"	class	line:1
+ApplicationController	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	class	line:1
+PeopleController	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/app/controllers/people_controller.rb	/^class PeopleController < ApplicationController$/;"	class	line:1
+new	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/app/controllers/people_controller.rb	/^  def new$/;"	method	line:2	class:PeopleController
+create	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/app/controllers/people_controller.rb	/^  def create    $/;"	method	line:6	class:PeopleController
+index	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/app/controllers/people_controller.rb	/^  def index$/;"	method	line:11	class:PeopleController
+person_params	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/app/controllers/people_controller.rb	/^  def person_params$/;"	method	line:17	class:PeopleController
+AddressesController	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/app/controllers/addresses_controller.rb	/^class AddressesController < ApplicationController$/;"	class	line:1
+* Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/app/assets/stylesheets/application.css	/^ * Any CSS and SCSS file within this directory, lib\/assets\/stylesheets, vendor\/assets\/stylesheets,$/;"	function	line:5
+development	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/secrets.yml	/^development:$/;"	function	line:13
+secret_key_base	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/secrets.yml	/^  secret_key_base: 9baaa0eaf8e1e4a0e42aee8fbf5c03d9cb23bf08becd5c93d99ae47cbd28efd472e19c7ba74b28b9d0de1989a9f6d0da27408e059eec55befb7b18afced4ffb9$/;"	function	line:14
+test	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/secrets.yml	/^test:$/;"	function	line:16
+secret_key_base	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/secrets.yml	/^  secret_key_base: 939f88b262f7a4937251f187cafc60a81cd7c94a5c9aaa8d38e7093901aaddd67ad8d8a1061832c86cbf0741538e68a97c7607c45ed82dcf5d5dc1ce19bce378$/;"	function	line:17
+production	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/secrets.yml	/^production:$/;"	function	line:21
+secret_key_base	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/secrets.yml	/^  secret_key_base: <%= ENV["SECRET_KEY_BASE"] %>$/;"	function	line:22
+en	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/locales/en.yml	/^en:$/;"	function	line:22
+hello	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/locales/en.yml	/^  hello: "Hello world"$/;"	function	line:23
+BasicNestedForms	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/application.rb	/^module BasicNestedForms$/;"	module	line:9
+Application	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/application.rb	/^  class Application < Rails::Application$/;"	class	line:10	class:BasicNestedForms
+default	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/database.yml	/^default: &default$/;"	function	line:7
+adapter	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/database.yml	/^  adapter: sqlite3$/;"	function	line:8
+pool	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/database.yml	/^  pool: 5$/;"	function	line:9
+timeout	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/database.yml	/^  timeout: 5000$/;"	function	line:10
+development	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/database.yml	/^development:$/;"	function	line:12
+database	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/database.yml	/^  database: db\/development.sqlite3$/;"	function	line:14
+test	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/database.yml	/^test:$/;"	function	line:19
+database	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/database.yml	/^  database: db\/test.sqlite3$/;"	function	line:21
+production	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/database.yml	/^production:$/;"	function	line:23
+database	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/config/database.yml	/^  database: db\/production.sqlite3$/;"	function	line:25
+Basic Nested Forms	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/README.md	/^# Basic Nested Forms$/;"	function	line:1
+Objectives	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:3
+Data model	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/README.md	/^## Data model$/;"	function	line:17
+Creating people	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/README.md	/^## Creating people$/;"	function	line:38
+app/views/people/new.html.erb	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/README.md	/^# app\/views\/people\/new.html.erb$/;"	function	line:133
+Creating stubs	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/README.md	/^## Creating stubs$/;"	function	line:167
+Avoiding duplicates	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/README.md	/^## Avoiding duplicates$/;"	function	line:224
+app/models/song.rb	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/README.md	/^# app\/models\/song.rb$/;"	function	line:239
+Video Review	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/README.md	/^## Video Review$/;"	function	line:260
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:8
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:16
+Why Contribute?	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:28
+CreatePeople	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/db/migrate/20160114023001_create_people.rb	/^class CreatePeople < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/db/migrate/20160114023001_create_people.rb	/^  def change$/;"	method	line:2	class:CreatePeople
+AddPersonIdToAddresses	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/db/migrate/20160114112845_add_person_id_to_addresses.rb	/^class AddPersonIdToAddresses < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/db/migrate/20160114112845_add_person_id_to_addresses.rb	/^  def change$/;"	method	line:2	class:AddPersonIdToAddresses
+CreateAddresses	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/db/migrate/20160114023723_create_addresses.rb	/^class CreateAddresses < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/manon/Development/code/basic-nested-forms-london-web-career-031119/db/migrate/20160114023723_create_addresses.rb	/^  def change$/;"	method	line:2	class:CreateAddresses
